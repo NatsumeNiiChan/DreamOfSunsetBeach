@@ -17,7 +17,55 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: 2e23961fe742df844aea09192780e2dd, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 5981388218368
+    m_Localized: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6195360636928
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6248515051520
+    m_Localized: Exit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5797518319616
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19243525808128
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19895417118720
+    m_Localized: 'Languages:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20950406209536
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21040525025280
+    m_Localized: German
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21731565969408
+    m_Localized: 'Audio:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22783799402496
+    m_Localized: Music on/off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31567225626624
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38780073746432
+    m_Localized: New Game
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

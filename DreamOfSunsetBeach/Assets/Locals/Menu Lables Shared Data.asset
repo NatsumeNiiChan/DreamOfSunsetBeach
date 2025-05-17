@@ -14,7 +14,55 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_TableCollectionName: Menu Lables
   m_TableCollectionNameGuidString: 2e23961fe742df844aea09192780e2dd
-  m_Entries: []
+  m_Entries:
+  - m_Id: 5797518319616
+    m_Key: Menu/Canvas/Buttons/Continue/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5981388218368
+    m_Key: Menu/Canvas/Buttons/Options/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6195360636928
+    m_Key: Menu/Canvas/Buttons/Credits/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6248515051520
+    m_Key: Menu/Canvas/Buttons/Exit/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19243525808128
+    m_Key: Menu/Canvas/Options/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19895417118720
+    m_Key: Menu/Canvas/Options/Language/LanguageTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20950406209536
+    m_Key: Menu/Canvas/Options/Language/English/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21040525025280
+    m_Key: Menu/Canvas/Options/Language/German/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21731565969408
+    m_Key: Menu/Canvas/Options/Audio/AudioTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22783799402496
+    m_Key: Menu/Canvas/Options/Audio/AudioOnOff/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31567225626624
+    m_Key: Menu/Canvas/Options/Button/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38780073746432
+    m_Key: Menu/Canvas/MainScreen/Buttons/Start/Text (TMP)
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
