@@ -10,13 +10,26 @@ using System;
 public class MenuButtons : MonoBehaviour
 {
     private GameObject menuScreen;
-    private GameObject optionScreen;
+    [SerializeField] private GameObject optionScreen;
     private void Awake()
     {
         menuScreen = GameObject.Find("MainScreen");
         optionScreen = GameObject.Find("OptionScreen");
 
         optionScreen.SetActive(false);
+    }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape) && optionScreen.activeInHierarchy == false)
+        {
+            optionScreen.SetActive(true);
+        }
+
+        else if (Input.GetKeyDown(KeyCode.Escape) && optionScreen.activeInHierarchy)
+        {
+            optionScreen.SetActive(false);
+        }
     }
     public void StartButton()
     {
