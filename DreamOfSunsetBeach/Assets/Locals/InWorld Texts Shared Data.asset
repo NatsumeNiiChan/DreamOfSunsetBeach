@@ -19,6 +19,14 @@ MonoBehaviour:
     m_Key: Level_1/Canvas/Text (TMP)
     m_Metadata:
       m_Items: []
+  - m_Id: 6552194672668672
+    m_Key: Level_1/Canvas/InGameScreen/InteractionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6553765909278720
+    m_Key: PoliceNegative
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

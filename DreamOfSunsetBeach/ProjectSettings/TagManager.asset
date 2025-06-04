@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Police
+  - Home
+  - NoAccess
   layers:
   - Default
   - TransparentFX
@@ -40,4 +43,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2269698869
+    locked: 0
+  - name: Player
+    uniqueID: 1003770623
+    locked: 0
+  - name: Ground
+    uniqueID: 2314489019
+    locked: 0
+  - name: Preground
+    uniqueID: 512660959
     locked: 0
